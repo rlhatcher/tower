@@ -1,7 +1,7 @@
 # Launch Tower
 This is a (mostly) printed Launch Tower for model rockets. The length is 1m, which is _not_ optimal (1.5m would be best) but the tubes I wanted to use come in 1m or 2m lengths so ...
 
-Rather than work through the complications of desinging an adjustable tower, different size rockets can be accomodated by printing approriate sized upper and lower mounts. 15mm and 20mm body diameter .STLs are provided along with the source [Fusion 360 design file](Tower Launcher.f3d) where the parameters can be easilly adjusted for any size.
+Rather than work through the complications of desinging an adjustable tower, different size rockets can be accomodated by printing approriate sized upper and lower mounts. 15mm and 20mm body diameter .STLs are provided along with the source [Fusion 360 design file](https://github.com/rlhatcher/tower/blob/master/Tower%20Launcher.f3d?raw=true) where the parameters can be easilly adjusted for any size.
 
 ![Parameters](images/params.png)
 
@@ -26,9 +26,9 @@ The original design had printed "pegs" on the bottom mount, which promptly bronk
  
 # Assembly
 
-Start with the three legs and the base
+Start with the three legs and the base 
 
-![base](images/tower - 1.jpg)
+![Base](images/tower - 1.png)
 
 Simply snap the legs throguh the base
 
